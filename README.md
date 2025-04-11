@@ -31,7 +31,10 @@ Live Demo 👉 [Click Here](https://htttpkaran.github.io/todo-app/) <!-- Replace
 ---
 
 ## 📁 Folder Structure
-todo-list-app/ ├── index.html ├── style.css └── script.js
+todo-list-app/ 
+├── index.html 
+├── style.css 
+└── script.js
 
 ---
 
