@@ -8,7 +8,7 @@ A simple and clean To-Do List web application built using **HTML**, **CSS**, and
 
  <!--  ![To-Do List Screenshot](screenshot.png) <!-- Optional: Add a screenshot if you have -->
 
-Live Demo 👉 [Click Here](https://your-live-link.netlify.app/) <!-- Replace with your hosted link -->
+Live Demo 👉 [Click Here](https://htttpkaran.github.io/todo-app/) <!-- Replace with your hosted link -->
 
 ---
 
